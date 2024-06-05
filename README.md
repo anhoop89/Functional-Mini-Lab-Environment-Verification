@@ -30,6 +30,6 @@ This project verifies the setup of a functional mini-lab environment for the ter
 
 ## Visual Summary
 
-![Project Workflow](https://example.com/path-to-your-animation.gif)
+![Project Workflow](https://miro.medium.com/max/875/1*mVZZ3eHGewq6fiqhuBovHw.gif)
 
 This animation provides a visual summary of the steps involved in setting up the mini-lab environment, from creating the GitHub repository to configuring the VMs and documenting the process.
