@@ -17,7 +17,7 @@ This project verifies the setup of a functional mini-lab environment for the ter
      - Follow the additional configuration steps for the Ubuntu VM and document the process.
 
 3. **Bastion or Jump Host Configuration:**
-   - Include the contents of your `~/.ssh/config` file in the `hw1.md` file to show the configuration of a bastion or jump host.
+   - Include the contents of your `~/.ssh/config` file in the documentation file to show the configuration of a bastion or jump host.
 
 4. **Documentation:**
    - Document all the steps taken to set up and configure the VMs.
