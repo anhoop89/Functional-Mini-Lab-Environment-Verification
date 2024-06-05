@@ -1,4 +1,4 @@
-# Project Description: Project 1 - DevOps - Functional Mini-Lab Environment Verification
+# Project Description: DevOps - Functional Mini-Lab Environment Verification
 
 This project verifies the setup of a functional mini-lab environment for the term. It involves creating a GitHub repository, setting up and configuring FreeBSD and Ubuntu virtual machines, and documenting the process. Tasks include taking screenshots of network configurations, configuring a bastion or jump host, and ensuring the environment is ready for future assignments. The completed documentation and configurations are submitted via the GitHub repository.
 
@@ -28,8 +28,4 @@ This project verifies the setup of a functional mini-lab environment for the ter
    - Commit and push the documentation and screenshots to your GitHub repository.
    - Verify that all files are correctly uploaded and accessible.
 
-## Visual Summary
-
-![Project Workflow](https://miro.medium.com/max/875/1*mVZZ3eHGewq6fiqhuBovHw.gif)
-
-This animation provides a visual summary of the steps involved in setting up the mini-lab environment, from creating the GitHub repository to configuring the VMs and documenting the process.
+![Project Workflow](https://media.licdn.com/dms/image/D4E12AQEBZKAjv0kS8Q/article-cover_image-shrink_600_2000/0/1689931179540?e=2147483647&v=beta&t=gB8lcRI_fz_A05zOXlBEf2KWFyzHncxgfHmLVDE1mas)
